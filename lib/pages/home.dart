@@ -11,7 +11,7 @@ class Home extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          child: Text("Welcome To Chhota-Mota Business"),
+          child: Text("Welcome To Chhota-Mota Video"),
         ),
       ),
       drawer: Drawer(),
